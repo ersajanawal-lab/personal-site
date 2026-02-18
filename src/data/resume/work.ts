@@ -17,15 +17,16 @@ const work: Position[] = [
     position: 'Deputy Project Manager ',
     url: 'https://ramanconstruction.com',
     startDate: '2016-12-30',
-    summary: `Project: Construction of Dharahara, Sundhara, Kathmandu, Nepal
-Client: Government of Nepal, Ministry of Urban Development
-Project cost: NPR 3.48 billion (approx. AUD $36.5 million)
+    endDate: '2025-05-14',
+    summary: `Project: Construction of Dharahara, Sundhara, Kathmandu, Nepal',
+'Client: Government of Nepal, Ministry of Urban Development',
+'Project cost: NPR 3.48 billion (approx. AUD $36.5 million)',
 `,
     highlights: [
-      '•	Managed and coordinated on-site construction activities at the field level to ensure alignment with project specifications, technical documentation, and contractual requirements.',
-      '•	Planned and monitored project schedules, budgets, and resource allocations to meet deliverables and cost objectives.',
-      '•	Oversaw WHS compliance and implemented safety management systems to promote zero-incident work environments.',
-      '•	Collaborated with multidisciplinary teams, subcontractors, consultants, and clients to facilitate progress meetings and resolve both technical and contractual issues.',
+      'Managed and coordinated on-site construction activities at the field level to ensure alignment with project specifications, technical documentation, and contractual requirements.',
+      'Planned and monitored project schedules, budgets, and resource allocations to meet deliverables and cost objectives.',
+      'Oversaw WHS compliance and implemented safety management systems to promote zero-incident work environments.',
+      'Collaborated with multidisciplinary teams, subcontractors, consultants, and clients to facilitate progress meetings and resolve both technical and contractual issues.',
     ],
   },
   {
