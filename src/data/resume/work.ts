@@ -13,18 +13,19 @@ export interface Position {
 
 const work: Position[] = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
-    startDate: '2024-07-01',
-    summary: `Promptfoo discovers and eliminates LLM risks before they reach production through automated
-    red-teaming and vulnerability analysis. Our open-source, developer-first approach has made Promptfoo the most
-    widely adopted LLM security tool, with over 200,000 users at companies like Anthropic, Amazon, and Shopify.`,
+    name: 'Raman Construction Pty Ltd ',
+    position: 'Deputy Project Manager ',
+    url: 'https://ramanconstruction.com',
+    startDate: '2016-12-30',
+    summary: `Project: Construction of Dharahara, Sundhara, Kathmandu, Nepal
+Client: Government of Nepal, Ministry of Urban Development
+Project cost: NPR 3.48 billion (approx. AUD $36.5 million)
+`,
     highlights: [
-      'Own company-wide technical strategy and product roadmap, balancing open-source community, commercial product, and research investments.',
-      'Led technical due diligence for $23M+ in venture financing from Insight Partners and Andreessen Horowitz.',
-      'Built and scaled the engineering team from founding through Series A, including hiring, leveling, and performance management.',
-      'Led development of core evaluation framework, vulnerability scanning, and automated red-teaming capabilities.',
+      '•	Managed and coordinated on-site construction activities at the field level to ensure alignment with project specifications, technical documentation, and contractual requirements.',
+      '•	Planned and monitored project schedules, budgets, and resource allocations to meet deliverables and cost objectives.',
+      '•	Oversaw WHS compliance and implemented safety management systems to promote zero-incident work environments.',
+      '•	Collaborated with multidisciplinary teams, subcontractors, consultants, and clients to facilitate progress meetings and resolve both technical and contractual issues.',
     ],
   },
   {
