@@ -25,10 +25,8 @@ export default function ResumePage() {
         <header className="resume-header">
           <h1 className="resume-title">Resume</h1>
           <p className="resume-summary">
-            Engineering leader with 10+ years building products at the
-            intersection of machine learning and security. Currently CTO &
-            Co-founder at Promptfoo, building open-source LLM security tools.
-            Stanford MS, YC alum, previously VP Engineering.
+           Passionate civil engineer and construction professional with 8 years of experience and exposure to the construction project lifecycle. Skills and experience include quantity surveying and estimating, procurement, engineering, site supervision, surveying, inspections, civil design, drafting, planning, monitoring, and contract administration. Dedicated to professional development, I have been proactive in leveraging learning opportunities, building my leadership and communication skills, and can build high-performance teams with personnel from varied cultures.
+
           </p>
         </header>
 
