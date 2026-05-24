@@ -11,7 +11,7 @@ export default function Hero() {
         </div>
 
         <h1 className="hero-title">
-          <span className="hero-name">Michael D&apos;Angelo</span>
+          <span className="hero-name">Sajan Awal;Angelo</span>
         </h1>
 
         <p className="hero-tagline">
@@ -29,9 +29,9 @@ export default function Hero() {
         </p>
 
         <div className="hero-chips">
-          <span className="hero-chip">YC Alum</span>
-          <span className="hero-chip">Stanford ICME</span>
-          <span className="hero-chip">Co-founded Arthena & Matroid</span>
+          <span className="hero-chip">Khce Alum</span>
+          <span className="hero-chip">Construction Project Manager</span>
+          <span className="hero-chip">Founded CED</span>
         </div>
 
         <div className="hero-cta">
